@@ -1,16 +1,16 @@
-## Hi there 👋
+## Boa Vindas ao meu perfil  ⚓
 
-<!--
-**scarpa109391/scarpa109391** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ronaldo Scarpa
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura] (https://www.alura.com.br/) e [Ebac] (https://ebaconline.com.br)
+- Estou me desenvolvendo na linguagem JavaScript na Alura
+- Estou me desenvolvendo na linguagem Python (Desenvolvedor Full Stack) na Ebac
+- Utilizo este espaço para minha organização e compartilhamento dos meus projetos que serão desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Você pode entrar em contato comigo através 📧 📫
+
+- ronaldo.scarpa@hotmail.com
+- ronaldoscarpa@prof.educacao.sp.gov.br
+
+![](https://media.tenor.com/cE6kOkq5APEAAAAi/happy-happy-happie.gif)
+
